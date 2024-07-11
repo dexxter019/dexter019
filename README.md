@@ -34,6 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskargubreley&show_icons=true&locale=en&layout=compact" alt="sanskargubreley" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskargubreley&show_icons=true&locale=en" alt="sanskargubreley" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskargubreley&" alt="sanskargubreley" /></p>
