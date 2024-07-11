@@ -22,12 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://x.com/SattamBhat74054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/sattam-bhattacharyya-652187306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/dexterr_019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanskar_789" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="sanskar_789" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanskar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanskar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar_" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/sattrre2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskar1" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/sattam_10x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
