@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning ** Web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/dexxter019?tab=repositories)
 
 - 💬 Ask me about **Python, JAVA , DSA & Projects**
 
